@@ -1,0 +1,6 @@
+{
+  "versionCode": 1,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.1.0/OneShot-0.1.0.apk",
+  "notes": "Initial OneShot Reminder release with fast one-time task capture, local reminders, Complete and Snooze notification actions, and signed in-app updates."
+}
