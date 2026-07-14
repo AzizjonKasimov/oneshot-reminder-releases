@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.1.0/OneShot-0.1.0.apk",
-  "notes": "Initial OneShot Reminder release with fast one-time task capture, local reminders, Complete and Snooze notification actions, and signed in-app updates."
+  "versionCode": 2,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.2.0/OneShot-0.2.0.apk",
+  "notes": "Adds natural-language task capture, Android voice input, optional Gemini-powered interpretation through a server-side parser, confirmation for changed interpretations, and safe on-device fallback."
 }
