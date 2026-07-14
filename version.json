@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.2.0/OneShot-0.2.0.apk",
-  "notes": "Adds natural-language task capture, Android voice input, optional Gemini-powered interpretation through a server-side parser, confirmation for changed interpretations, and safe on-device fallback."
+  "versionCode": 3,
+  "versionName": "0.2.1",
+  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.2.1/OneShot-0.2.1.apk",
+  "notes": "Adds in-app Gemini API key entry, direct natural-language task interpretation, key replacement and removal, and a simpler server-free setup."
 }
