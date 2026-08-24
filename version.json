@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
-  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.2.1/OneShot-0.2.1.apk",
-  "notes": "Adds in-app Gemini API key entry, direct natural-language task interpretation, key replacement and removal, and a simpler server-free setup."
+  "versionCode": 4,
+  "versionName": "0.3.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.3.0/OneShot-0.3.0.apk",
+  "notes": "AI-only Gemini task interpretation with explicit success and failure states, responsive Gemini 3.6 Flash requests, and separate task and reminder times including earlier absolute reminders."
 }
