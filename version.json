@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.3.0/OneShot-0.3.0.apk",
-  "notes": "AI-only Gemini task interpretation with explicit success and failure states, responsive Gemini 3.6 Flash requests, and separate task and reminder times including earlier absolute reminders."
+  "versionCode": 5,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/AzizjonKasimov/oneshot-reminder-releases/releases/download/v0.4.0/OneShot-0.4.0.apk",
+  "notes": "Task interpretation now runs through a private, self-hosted AI gateway instead of Gemini. The Gemini API key setting is replaced by an access token for that gateway, and any previously saved Gemini key is cleared on upgrade. Scheduling behaviour is unchanged, including separate task and reminder times. This build cannot interpret or save new tasks without a gateway access token."
 }
